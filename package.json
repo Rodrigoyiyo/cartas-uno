@@ -1,0 +1,14 @@
+{
+  "name": "cartas_uno_db",
+  "version": "1.0.0",
+  "description": "ejercicio del juego de cartas uno con canvas y websocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ducksbox",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
